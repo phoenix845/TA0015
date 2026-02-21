@@ -79,10 +79,7 @@ The frontend React application should now be running on `http://localhost:3000`.
 
 ## 👥 Team Details
 
-*Add your team details here.*
-
 | Name | Mobile No. | Email ID |
-| :--- | :--- | :--- | :--- |
 | **Gaurav Kakde** | 8446474273 | kakdegaurav876@gmail.com |
 | **Shivansh Pandey** | 9325592884 | shivanshjpandey25@gmail.com |
 | **Siddhi Rajhans** | 8459951745 | siddhirajhans394@gmail.com |
